@@ -1,6 +1,9 @@
 
 # Email Spam Filter
 
+#### Technology : Anaconda, Python
+#### Duration   : Oct - Nov 16
+
 ### Description
 1.	Built a spam filter using “spamassasin” dataset. 
 2.	Extracted title and body from raw HTML formatted email.
