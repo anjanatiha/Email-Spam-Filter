@@ -1,7 +1,7 @@
 
-## Email Spam Filter
+# Email Spam Filter
 
-#### Description
+### Description
 1.	Built a spam filter using “spamassasin” dataset. 
 2.	Extracted title and body from raw HTML formatted email.
 3.	Extracted features for each email by vectorizing each email using two separate methods, counting-based vectorization  and tfidf-based vectorization.
@@ -11,7 +11,7 @@
 7.	Logistic regression with L2 regularization with C=1 and C=0.5 (count vectorized and tf-idf vectorized) 
 8.	Logistic regression with L1 regularization with C=1 and C=0.5 (count vectorized and tf-idf vectorized)
 
-##### Tools Requirement: Anaconda, Python 
+#### Tools Requirement: Anaconda, Python 
 
 Current Version  : v1.0.0.0
 
