@@ -1,8 +1,10 @@
 
 # Email Spam Filter
 
-#### Technology : Anaconda, Python
-#### Duration   : Oct - Nov 16
+##### Domain             : Machine Learning, Natural Language Processing
+##### Sub-Domain         : Text Analytics
+##### Techniques         : Classification, Bag of Words
+##### Application Domain : Text Analysis, Social Media Analysis, Text Mining
 
 ### Description
 1.	Built a spam filter using “spamassasin” dataset. 
@@ -14,7 +16,10 @@
 7.	Logistic regression with L2 regularization with C=1 and C=0.5 (count vectorized and tf-idf vectorized) 
 8.	Logistic regression with L1 regularization with C=1 and C=0.5 (count vectorized and tf-idf vectorized)
 
-#### Tools Requirement: Anaconda, Python 
+##### Language : Python
+##### Tools    : Anaconda
+##### Duration   : Oct - Nov 16
+ 
 
 Current Version  : v1.0.0.0
 
